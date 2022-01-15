@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yohans14/portfolio-generator.git"
+  },
+  "keywords": [
+    "portfolio",
+    "generator"
+  ],
+  "author": "Yohans Getaneh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yohans14/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/yohans14/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
